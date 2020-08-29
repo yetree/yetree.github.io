@@ -1,8 +1,13 @@
 ---
-title: "[leetcode] valid palindrome(125)"
-date: 2020-08-29 15:43:28 -0400
-categories: update
+layout: post
+title: [leetcode] valid palindrome
+subtitle: leetcode 125 Python
+gh-repo: daattali/beautiful-jekyll
+gh-badge: [star, fork, follow]
+tags: [leetcode]
+comments: true
 ---
+
 #valid palindrome
 
 leetcode 팰린드롬 링크 : [problem 125](https://leetcode.com/problems/valid-palindrome/)
